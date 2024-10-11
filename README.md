@@ -1,8 +1,6 @@
 # Regolamento del gruppo Telegram [https://t.me/fullremotechat](https://t.me/fullremotechat)
 
-**Regolamento del Gruppo Telegram**
-
-Benvenuti nel gruppo Telegram [https://t.me/fullremotechat](https://t.me/fullremotechat)! Questo è uno spazio per condividere esperienze, chiedere consigli e segnalare opportunità legate al mondo del remote work. Per mantenere un ambiente piacevole e produttivo, vi chiediamo di rispettare le seguenti regole:
+Benvenuti nel gruppo Telegram [https://t.me/fullremotechat](https://t.me/fullremotechat)! Questo è uno spazio per condividere esperienze, chiedere consigli e segnalare opportunità legate al mondo del remote work. Per mantenere un ambiente piacevole e produttivo, vi chiediamo di rispettare le seguenti regole, **che vi impegnate ad accettare partecipando al gruppo**:
 
 1. **Rispetto reciproco**  
    Trattate tutti con rispetto. Insulti, offese e comportamenti inappropriati non saranno tollerati. Mantenete le discussioni costruttive e civili.
