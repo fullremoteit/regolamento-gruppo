@@ -22,9 +22,15 @@ Benvenuti nel gruppo Telegram [https://t.me/fullremotechat](https://t.me/fullrem
 
 7. **Nessun contenuto pirata o illegale**  
    Non sono ammessi link o riferimenti a software pirata, contenuti protetti da copyright senza autorizzazione o attività illegali.
+   
+8. **Feedback costruttivo**  
+   Se state rispondendo a una domanda o dando feedback, mantenete un tono costruttivo. Il gruppo è uno spazio di apprendimento e supporto, e i suggerimenti positivi aiutano a crescere.
 
-8. **Rispetto della privacy**  
+9. **Rispetto della privacy personale**  
    Non condividete informazioni personali o sensibili (vostre o di altri) senza il consenso degli interessati. Questo include indirizzi email, numeri di telefono e dettagli aziendali riservati.
+   
+10. **Riservatezza dei progetti**  
+    Evitate di condividere dettagli specifici sui progetti aziendali su cui state lavorando, specialmente se sottoposti a NDA (accordi di riservatezza). Il rispetto della privacy aziendale è essenziale.
 
-9. **Moderazione**  
+11. **Moderazione**  
    L'amministratore del gruppo si riserva il diritto di rimuovere messaggi o utenti che violino queste regole. In caso di domande o problemi, potete scrivere all'indirizzo [info@fullremote.it](mailto:info@fullremote.it) oppure all'amministratore [@napolux](https://t.me/napolux)
