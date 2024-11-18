@@ -28,14 +28,19 @@ Benvenuti nel gruppo Telegram [https://t.me/fullremotechat](https://t.me/fullrem
 
 1. **Nessun contenuto pirata o illegale**  
    Non sono ammessi link o riferimenti a software pirata, contenuti protetti da copyright senza autorizzazione o attività illegali.
+
 1. **Zero tolleranza per la discriminazione**  
    Qualsiasi forma di discriminazione o commenti offensivi basati su sesso, razza, etnia, orientamento sessuale, età, religione, disabilità o qualsiasi altro aspetto personale **comporteranno il ban immediato e senza appello**.
+
+1. **Uso di account alternativi per aggirare il ban**
+   L'utilizzo di account alternativi per aggirare un ban preesistente è vietato. Qualsiasi tentativo di rientrare nel gruppo con un account diverso dopo essere stati bannati comporterà il ban immediato di tutti gli account identificati e l'esclusione permanente dal gruppo.
 
 1. **Feedback costruttivo**  
    Se state rispondendo a una domanda o dando feedback, mantenete un tono costruttivo. Il gruppo è uno spazio di apprendimento e supporto, e i suggerimenti positivi aiutano a crescere.
 
 1. **Rispetto della privacy personale**  
    Non condividete informazioni personali o sensibili (vostre o di altri) senza il consenso degli interessati. Questo include indirizzi email, numeri di telefono e dettagli aziendali riservati.
+
 1. **Riservatezza dei progetti**  
    Evitate di condividere dettagli specifici sui progetti aziendali su cui state lavorando, specialmente se sottoposti a NDA (accordi di riservatezza). Il rispetto della privacy aziendale è essenziale.
 
