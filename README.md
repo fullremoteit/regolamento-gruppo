@@ -33,7 +33,6 @@ Benvenuti nel gruppo Telegram [https://t.me/fullremotechat](https://t.me/fullrem
    Qualsiasi forma di discriminazione o commenti offensivi basati su sesso, razza, etnia, orientamento sessuale, età, religione, disabilità o qualsiasi altro aspetto personale **comporteranno il ban immediato e senza appello**.
 
 1. **Uso di account alternativi per aggirare il ban**
-
    L'utilizzo di account alternativi per aggirare un ban preesistente è vietato. Qualsiasi tentativo di rientrare nel gruppo con un account diverso dopo essere stati bannati comporterà il ban immediato di tutti gli account identificati e l'esclusione permanente dal gruppo.
 
 1. **Feedback costruttivo**  
