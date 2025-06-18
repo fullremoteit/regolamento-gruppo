@@ -58,6 +58,10 @@ Benvenuti nel gruppo Telegram [https://t.me/fullremotechat](https://t.me/fullrem
 
    Evitate di condividere dettagli specifici sui progetti aziendali su cui state lavorando, specialmente se sottoposti a NDA (accordi di riservatezza). Il rispetto della privacy aziendale è essenziale.
 
+1. **Ricerca di lavoro**
+
+   Non è consentito pubblicare messaggi del tipo: "Ciao, sono Mario, cerco lavoro come sviluppatore su piattaforma..." Messaggi di questo tipo verranno rimossi e chi li ha condivisi potrà essere soggetto a sanzioni.
+
 1. **Raccolte fondi**
 
    Non è consentito pubblicare richieste di donazioni, raccolte fondi o campagne su piattaforme come GoFundMe, Buy Me a Coffee, Patreon, Kickstarter o simili, nemmeno per cause personali o benefiche. Il gruppo non è lo spazio adatto per questo tipo di iniziative. Messaggi di questo tipo verranno rimossi e chi li ha condivisi potrà essere soggetto a sanzioni.
