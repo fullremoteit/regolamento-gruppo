@@ -69,3 +69,5 @@ Benvenuti nel gruppo Telegram [https://t.me/fullremotechat](https://t.me/fullrem
 1. **Moderazione**
 
    L'amministratore del gruppo si riserva il diritto di rimuovere messaggi o utenti che violino queste regole. In caso di domande o problemi, potete scrivere all'indirizzo [info@fullremote.it](mailto:info@fullremote.it) oppure all'amministratore [@napolux](https://t.me/napolux)
+
+### DATA ULTIMO AGGIORNAMENTO: 18/06/2025
