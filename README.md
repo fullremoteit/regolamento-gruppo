@@ -66,8 +66,14 @@ Benvenuti nel gruppo Telegram [https://t.me/fullremotechat](https://t.me/fullrem
 
    Non è consentito pubblicare richieste di donazioni, raccolte fondi o campagne su piattaforme come GoFundMe, Buy Me a Coffee, Patreon, Kickstarter o simili, nemmeno per cause personali o benefiche. Il gruppo non è lo spazio adatto per questo tipo di iniziative. Messaggi di questo tipo verranno rimossi e chi li ha condivisi potrà essere soggetto a sanzioni.
 
+1. **Nickname e bio sospetti (anti-spam e anti-truffe)**
+
+   Per mantenere alta la qualità della conversazione nel gruppo ed evitare spam e truffe, alcuni profili vengono bannati automaticamente. In particolare, possono essere bannati senza preavviso profili con nickname chiaramente sospetti o fuori contesto (ad esempio "Mister Bitcoin" o "Zozzona 1998"), nickname composti esclusivamente da caratteri cirillici o arabi, oppure profili che nella bio includono link a OnlyFans, piattaforme di criptovalute o servizi simili non pertinenti al gruppo.
+
+   In caso di reclami, scrivete a [info@fullremote.it](mailto:info@fullremote.it).
+
 1. **Moderazione**
 
    L'amministratore del gruppo si riserva il diritto di rimuovere messaggi o utenti che violino queste regole. In caso di domande o problemi, potete scrivere all'indirizzo [info@fullremote.it](mailto:info@fullremote.it) oppure all'amministratore [@napolux](https://t.me/napolux)
 
-### DATA ULTIMO AGGIORNAMENTO: 18/06/2025
+### DATA ULTIMO AGGIORNAMENTO: 28/02/2026
