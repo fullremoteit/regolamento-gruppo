@@ -62,6 +62,10 @@ Benvenuti nel gruppo Telegram [https://t.me/fullremotechat](https://t.me/fullrem
 
    Non è consentito pubblicare messaggi del tipo: "Ciao, sono Mario, cerco lavoro come sviluppatore su piattaforma..." Messaggi di questo tipo verranno rimossi e chi li ha condivisi potrà essere soggetto a sanzioni.
 
+1. **Topic "Presentazioni": vietato cercare o offrire lavoro**
+
+   Il topic "Presentazioni" è riservato esclusivamente alla presentazione personale all'interno del gruppo. Non è consentito utilizzarlo per cercare o offrire opportunità lavorative, anche se inserite all'interno di un messaggio di presentazione. Chi viola questa regola **verrà bannato senza appello**.
+
 1. **Raccolte fondi**
 
    Non è consentito pubblicare richieste di donazioni, raccolte fondi o campagne su piattaforme come GoFundMe, Buy Me a Coffee, Patreon, Kickstarter o simili, nemmeno per cause personali o benefiche. Il gruppo non è lo spazio adatto per questo tipo di iniziative. Messaggi di questo tipo verranno rimossi e chi li ha condivisi potrà essere soggetto a sanzioni.
@@ -76,4 +80,4 @@ Benvenuti nel gruppo Telegram [https://t.me/fullremotechat](https://t.me/fullrem
 
    L'amministratore del gruppo si riserva il diritto di rimuovere messaggi o utenti che violino queste regole. In caso di domande o problemi, potete scrivere all'indirizzo [info@fullremote.it](mailto:info@fullremote.it) oppure all'amministratore [@napolux](https://t.me/napolux)
 
-### DATA ULTIMO AGGIORNAMENTO: 28/02/2026
+### DATA ULTIMO AGGIORNAMENTO: 24/04/2026
